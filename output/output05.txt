@@ -1,0 +1,1 @@
+hello input/input05.txt
